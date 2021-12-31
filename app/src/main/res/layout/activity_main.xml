@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+
+    >
+<LinearLayout
+
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#000000"
+    android:orientation="vertical"
+
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#95000000"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/welcome_message"
+        android:textColor="#00FF22"
+        android:textSize="60sp"
+        android:textStyle="bold"
+
+        app:fontFamily="sans-serif-black" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="11"
+            android:background="#070707"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/button_a"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/A"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_b"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/B"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_c"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/C"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_d"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/D"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_e"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/E"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_f"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/F"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_g"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/G"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_h"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/H"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_i"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:paddingLeft="15dp"
+                android:text="@string/I"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_j"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/J"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_k"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/K"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_l"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/L"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_m"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/M"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_n"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/N"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_o"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/O"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_p"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/P"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_q"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/Q"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_r"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/R"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_s"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/S"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_t"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/T"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_u"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/U"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_v"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/V"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_w"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/W"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_x"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/X"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_y"
+                style="@style/text_dimension"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/Y"
+                android:textColor="@color/aplphabet_color" />
+
+            <Button
+                android:id="@+id/button_z"
+                style="@style/text_dimension"
+                android:layout_marginBottom="20dp"
+                android:background="@color/alphabet_back_color"
+                android:text="@string/Z"
+                android:textColor="@color/aplphabet_color" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="15"
+            android:background="#000000"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/image_a"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/ape" />
+
+            <ImageView
+                android:id="@+id/image_b"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/bear" />
+
+            <ImageView
+                android:id="@+id/image_c"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/cat" />
+
+            <ImageView
+                android:id="@+id/image_d"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/dog" />
+
+            <ImageView
+                android:id="@+id/image_e"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/elephant" />
+
+
+            <ImageView
+                android:id="@+id/image_f"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/fox" />
+
+            <ImageView
+                android:id="@+id/image_g"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/gazele" />
+
+            <ImageView
+                android:id="@+id/image_h"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/horse" />
+
+            <ImageView
+                android:id="@+id/image_i"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/impala" />
+
+            <ImageView
+                android:id="@+id/image_j"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/jaguar" />
+
+            <ImageView
+                android:id="@+id/image_k"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/kangaroo" />
+
+            <ImageView
+                android:id="@+id/image_l"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/leopard" />
+
+            <ImageView
+                android:id="@+id/image_m"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/monkey" />
+
+            <ImageView
+                android:id="@+id/image_n"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/numbat" />
+
+
+            <ImageView
+                android:id="@+id/image_o"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/orangutan" />
+
+            <ImageView
+                android:id="@+id/image_p"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/polarbear" />
+
+            <ImageView
+                android:id="@+id/image_q"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/quokka" />
+
+            <ImageView
+                android:id="@+id/image_r"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/rabbit" />
+
+            <ImageView
+                android:id="@+id/image_s"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/sheep" />
+
+            <ImageView
+                android:id="@+id/image_t"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/tiger" />
+
+            <ImageView
+                android:id="@+id/image_u"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/unau" />
+
+            <ImageView
+                android:id="@+id/image_v"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/vulture" />
+
+            <ImageView
+                android:id="@+id/image_w"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/warthog" />
+
+            <ImageView
+                android:id="@+id/image_x"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/xerus" />
+
+            <ImageView
+                android:id="@+id/image_y"
+                style="@style/image_dimension"
+                app:srcCompat="@drawable/yak" />
+
+            <ImageView
+                android:id="@+id/image_z"
+                style="@style/image_dimension"
+                android:layout_marginBottom="20dp"
+                app:srcCompat="@drawable/zebra" />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
+</ScrollView>

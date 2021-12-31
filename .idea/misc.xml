@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_alphabet_a.xml" value="0.32916666666666666" />
+        <entry key="app/src/main/res/layout/activity_alphabet_b.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_c.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_d.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_e.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_f.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_g.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_h.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_i.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_j.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_k.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_l.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_m.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_n.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_o.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_p.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_q.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_r.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_s.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_t.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_u.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_v.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_w.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_x.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_y.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_alphabet_z.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2146809295462929" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/splash_screen.xml" value="0.32916666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

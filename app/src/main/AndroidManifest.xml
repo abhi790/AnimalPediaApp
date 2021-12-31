@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.abhideveloper.animalpedia">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AnimalPedia">
+<!--        <activity-->
+<!--            android:name=".Splash"-->
+<!--            android:exported="true" />-->
+<!--        <activity-->
+            android:name=".AlphabetZ"
+            android:label="ZEBRA" />
+        <activity
+            android:name=".AlphabetY"
+            android:label="YAK" />
+        <activity
+            android:name=".AlphabetX"
+            android:label="XERUS" />
+        <activity
+            android:name=".AlphabetW"
+            android:label="WARTHOG" />
+        <activity
+            android:name=".AlphabetV"
+            android:label="VULTURE" />
+        <activity
+            android:name=".AlphabetU"
+            android:label="UNAU" />
+        <activity
+            android:name=".AlphabetT"
+            android:label="TIGER" />
+        <activity
+            android:name=".AlphabetS"
+            android:label="SHEEP" />
+        <activity
+            android:name=".AlphabetR"
+            android:label="RABBIT" />
+        <activity
+            android:name=".AlphabetQ"
+            android:label="QUOKKA" />
+        <activity
+            android:name=".AlphabetP"
+            android:label="POLAR BEAR" />
+        <activity
+            android:name=".AlphabetO"
+            android:label="ORANGATUN" />
+        <activity
+            android:name=".AlphabetN"
+            android:label="NUMBAT" />
+        <activity
+            android:name=".AlphabetM"
+            android:label="MONKEY" />
+        <activity
+            android:name=".AlphabetL"
+            android:label="LEOPARD" />
+        <activity
+            android:name=".AlphabetK"
+            android:label="KANGAROO" />
+        <activity
+            android:name=".AlphabetJ"
+            android:label="JAGUAR" />
+        <activity
+            android:name=".AlphabetI"
+            android:label="IMPALA" />
+        <activity
+            android:name=".AlphabetH"
+            android:label="HORSE" />
+        <activity
+            android:name=".AlphabetG"
+            android:label="GAZELE" />
+        <activity
+            android:name=".AlphabetF"
+            android:label="FOX" />
+        <activity
+            android:name=".AlphabetE"
+            android:label="ELEPHANT" />
+        <activity
+            android:name=".AlphabetD"
+            android:label="DOG" />
+        <activity
+            android:name=".AlphabetA"
+            android:label="APE" />
+        <activity
+            android:name=".AlphabetC"
+            android:label="CAT" />
+        <activity
+            android:name=".AlphabetB"
+            android:label="BEAR" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
