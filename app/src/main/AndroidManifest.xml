@@ -12,12 +12,12 @@
 <!--        <activity-->
 <!--            android:name=".Splash"-->
 <!--            android:exported="true" />-->
-<!--        <activity-->
-            android:name=".AlphabetZ"
-            android:label="ZEBRA" />
         <activity
             android:name=".AlphabetY"
-            android:label="YAK" />
+            android:label="Y" />
+        <activity
+            android:name=".AlphabetZ"
+            android:label="ZEBRA" />
         <activity
             android:name=".AlphabetX"
             android:label="XERUS" />

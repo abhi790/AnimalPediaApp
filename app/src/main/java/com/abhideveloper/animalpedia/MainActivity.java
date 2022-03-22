@@ -27,12 +27,9 @@ public class MainActivity extends AppCompatActivity {
 
         //when button B is clicked
         Button bear = findViewById(R.id.button_b);
-        bear.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intentB = new Intent(getApplicationContext(), AlphabetB.class);
-                startActivity(intentB);
-            }
+        bear.setOnClickListener(view -> {
+            Intent intentB = new Intent(getApplicationContext(), AlphabetB.class);
+            startActivity(intentB);
         });
         //when button C is clicked
         Button cat = findViewById(R.id.button_c);
